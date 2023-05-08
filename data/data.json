@@ -1,22 +1,25 @@
 {
     "events_categories": [
         {
-            "id": "london",
-            "title": "Events in London",
-            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
-            "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "id": "Ottawa",
+            "title": "Upcoming Events in Ottawa | Concerts, Festivals, and More",
+            "description": "Find out what's happening in Ottawa with our comprehensive guide to the city's top events. From live music and festivals to cultural events and more, we've got you covered.",
+            "image": "ottawa-events.jpg",
+            "alt_text": "Crowd of people enjoying an outdoor event in Ottawa"
         },
         {
-            "id": "san-francisco",
-            "title": "Events in San Francisco",
-            "description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
-            "image": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+            "id": "Saskatchewan",
+            "title": "Discover Saskatchewan's Best Events | Music, Arts, and More",
+            "description": "Explore the best of Saskatchewan's event scene with our guide to the top music, arts, and cultural events in the province. From Saskatoon to Regina and beyond, there's always something happening.",
+            "image": "saskatchewan-events.jpg",
+            "alt_text": "Colorful outdoor festival in Saskatchewan"
         },
         {
-            "id": "barcelona",
-            "title": "Events in Barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1579282240050-352db0a14c21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=652&q=80"
+            "id": "Vancouver",
+            "title": "Vancouver Events Calendar | What's On in the City",
+            "description": "Stay up to date with the latest events in Vancouver with our comprehensive calendar of top concerts, festivals, and cultural events. From downtown to the suburbs, we've got the inside scoop on what's happening in the city.",
+            "image": "vancouver-events.jpg",
+            "alt_text": "City skyline of Vancouver at night"
         }
     ],
     "allEvents": [

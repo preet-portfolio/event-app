@@ -29,12 +29,12 @@ export default function Home() {
         </nav>
       </header>
 
-      <main className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+      <main className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8 h-fit">
         <div className="flex flex-wrap justify-center">
           <a href="/events/ottawa" className="w-full sm:w-1/2 md:w-1/3 p-4">
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
-                src="/ottawa.jpg"
+                src="https://images.pexels.com/photos/1045915/pexels-photo-1045915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Events in Ottawa"
                 className="w-full h-48 object-cover"
               />
@@ -57,7 +57,7 @@ export default function Home() {
           >
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
-                src="/saskatchewan.jpg"
+                src="https://images.pexels.com/photos/14854665/pexels-photo-14854665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Events in Saskatchewan"
                 className="w-full h-48 object-cover"
               />
@@ -78,7 +78,7 @@ export default function Home() {
           <a href="/events/vancouver" className="w-full sm:w-1/2 md:w-1/3 p-4">
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <img
-                src="/vancouver.jpg"
+                src="https://images.pexels.com/photos/63332/science-world-false-creek-vancouver-british-columbia-63332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Events in Vancouver"
                 className="w-full h-48 object-cover"
               />
@@ -98,15 +98,7 @@ export default function Home() {
             </div>
           </a>
         </div>
-
-        <div>
-          <h2></h2>
-        </div>
       </main>
-
-      <footer className="bg-gray-800 text-white py-4 my-">
-        <p className="text-center">&copy; 2023 Proudly Made in Ottawa 🇨🇦</p>
-      </footer>
     </div>
   );
 }

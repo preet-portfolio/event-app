@@ -36,27 +36,27 @@ const EventCard = ({ event }) => {
 const events = [
   {
     id: 1,
-    title: "Lorem ipsum dolor sit amet",
+    title: "Summer Festival in Ottawa",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sodales augue. Proin et lorem non mauris rutrum dignissim. Sed ut risus sed libero egestas rhoncus sit amet at urna.",
-    date: "May 15, 2023",
-    location: "New York, NY",
+      "Join us for the biggest summer festival in Ottawa! Enjoy a variety of live music performances, delicious food vendors, and exciting activities for the whole family. Don't miss out on the fun!",
+    date: "August 6-8, 2023",
+    location: "Ottawa, ON",
   },
   {
     id: 2,
-    title: "Maecenas gravida nulla in erat dignissim",
+    title: "Saskatchewan Agriculture Fair",
     description:
-      "Maecenas gravida nulla in erat dignissim, a molestie eros tristique. Fusce quis risus velit. Praesent et turpis id est euismod ultricies. Fusce vel velit et urna aliquam posuere.",
-    date: "June 22, 2023",
-    location: "San Francisco, CA",
+      "Experience the best of Saskatchewan's agriculture at our annual fair! Enjoy farm-to-table food vendors, live music performances, and a wide range of agricultural exhibits and activities. Bring the whole family for a fun-filled day!",
+    date: "September 16-18, 2023",
+    location: "Saskatchewan, SK",
   },
   {
     id: 3,
-    title: "Vivamus volutpat elit in nisl commodo",
+    title: "Vancouver Film Festival",
     description:
-      "Vivamus volutpat elit in nisl commodo, ac vestibulum nulla gravida. Nullam eu nisi euismod, consequat quam nec, molestie ex. Morbi euismod lorem sit amet ipsum malesuada, vel dignissim risus mattis. ",
-    date: "July 11, 2023",
-    location: "Chicago, IL",
+      "Join us for the 35th annual Vancouver Film Festival! Discover the latest and greatest in independent cinema from around the world, attend exclusive screenings and events, and participate in Q&A sessions with filmmakers and industry professionals.",
+    date: "October 5-12, 2023",
+    location: "Vancouver, BC",
   },
 ];
 
